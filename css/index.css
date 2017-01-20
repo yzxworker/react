@@ -1,0 +1,44 @@
+/*头部*/
+@charset 'utf-8';
+.headbox{ width:100%; height:36px; border-bottom:1px solid #dfdfdf; background:#fafafa; }
+.headercon{ width:930px; margin:0 auto; }
+.head_left{ float:left; }
+.head_left li{ float:left; padding-top: 12px; }
+.head_left li a{ display:block; padding:0 13px;  color:#8c8c8c; border-right:1px solid #dfdfdf; }
+.headbordernone{ border:none !important; }
+.head_rihgt{ float:right; padding-top: 12px; color:#8c8c8c; font-size:12px; }
+.head_rihgt a { color:#8c8c8c; padding:0 15px; display: inline-block; }
+.heademorebox{ width:930px; margin:0 auto; padding-top:7px; }
+.heademore{ float:left; width:70px; height:70px; margin-top:18px; }
+.heademore a{display:block;}
+.heademore a h1{ text-indent:-999em; height:70px; background:url(../img/logo.png) no-repeat 0 0; }
+
+.searchbox{ float:right;  }
+.tips{ color:#a1a1a1; font-size:12px; text-align:right; height:48px; line-height:48px; }
+.tips span{ display:inline-block; width:15px; height:16px; background: url(../img/aclork.png) no-repeat 0 0; margin-top:2px; }
+.serkuang{ width:385px; position:relative; float:left; }
+.serkuang input{ width:370px; height:38px; padding-left:14px; border:1px solid #dfdfdf; }
+.serkuang ul{ position:absolute; right:4px; top:10px; }
+.serkuang ul li{ float:right; height:20px; padding:0 4px; background: #f3f3f3; margin-right:5px; }
+.serkuang ul li a{ line-height:20px; color:#333; }
+.serkuang ul li a:hover{ color:#ff4a00; }
+.searbtn{ float:left; border:1px solid #dfdfdf; border-left:none; width:38px; height:38px; text-indent:-999em;background:url(../img/search.png) no-repeat center center; }
+.inputbtn{ float:left; }
+.shopcar{ float:left; width:126px; height:40px; margin-left:10px; position:relative; }
+.carbtn{ display:inline-block; width:100%; height:100%; line-height:40px; text-align:center; background:#ffdb3d; color:#333333; font-size:14px; }
+
+
+/*主体*/
+.content{ width:930px; margin:0 auto; margin-top:15px; }
+.connar{ height:50px; }
+.connar h2{ float:left; width:248px; font-size: 18px; color:#fff; line-height:50px; text-indent:1em; background:#ff4a00; } 
+.confenlei{ float:left; width:682px; height:50px; background:#404144; }
+.confenlei li{ float:left; padding:0 10px; }
+.confenlei li a{ line-height:50px; color:#fff; font-size:17px; }
+.conleft{ float:left; width:248px; }
+.conleftlist{ border:1px solid #dfdfdf; border-top:none; padding-top:13px; padding-bottom: 14px; position:relative; }
+.conlisttile{ height:23px; line-height:23px; text-indent:2em; }
+.conlisttile a{ color:#ff4a00; font-size:14px; }
+.conjj{ height:23px; line-height:23px; text-indent:2em; }
+.conjj a{  color:#6d6d6d; font-size:14px; padding-right: 15px; }
+.conxs{ width:247px; height:320px; position:absolute; top:0px; left:246px; border:1px solid #dfdfdf; }
